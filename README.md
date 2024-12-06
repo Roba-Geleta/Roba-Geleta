@@ -4,6 +4,6 @@ I'm Roba Geleta, a passionate Computer Science graduate with hands-on experience
 
 ### 💼 What I'm Working On
 
-- 🔭 Currently, I’m developing my portfolio website: geleta.ca. Beyond a typical portfolio, I’m integrating hands-on projects within it. One current feature is a Financial Insights Platform that enables users to view and manage stock portfolios, analyze company financials, and engage with a community commenting system to foster discussions.
+- 🔭 Currently, I’m developing my portfolio website: [geleta.ca](https://www.geleta.ca/). Beyond a typical portfolio, I’m integrating hands-on projects within it. One current feature is a Financial Insights Platform that enables users to view and manage stock portfolios, analyze company financials, and engage with a community commenting system to foster discussions.
   - Technologies: ASP.NET Core, PostgreSQL, React, AWS, Google Cloud, and API integration.
-- 🤔 I’m actively looking for full-time positions in software engineering, where I can contribute my skills and grow professionally.
+- 🤔 I’m also actively looking for full-time positions in software engineering, where I can contribute my skills and grow professionally.
