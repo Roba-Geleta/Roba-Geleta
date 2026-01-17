@@ -1,5 +1,3 @@
-# Roba Geleta
-
 Full-stack developer working across databases, backend services, UI, and infrastructure.
 
 I enjoy startup environments and experimenting with new ideas.
